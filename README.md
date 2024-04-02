@@ -1,2 +1,3 @@
-# Rain_fall_Prediction
-Predicting the Rainfall
+# Rain-Fall-Prediction
+Supervised classification models are builded to predict rainfall tomorrow
+"# decentralized-app" 
